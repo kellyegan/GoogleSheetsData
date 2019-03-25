@@ -1,0 +1,23 @@
+{
+  "name": "googlesheetsdata",
+  "version": "1.0.0",
+  "description": "Tool for handling Google Sheets data as an array of objects.",
+  "main": "sheetdata.ts",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kellyegan/GoogleSheetsData.git"
+  },
+  "keywords": [
+    "Google",
+    "Sheets"
+  ],
+  "author": "Kelly Egan",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kellyegan/GoogleSheetsData/issues"
+  },
+  "homepage": "https://github.com/kellyegan/GoogleSheetsData#readme"
+}
