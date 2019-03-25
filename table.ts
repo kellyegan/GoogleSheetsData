@@ -1,4 +1,4 @@
-var Table = function (sheet) {
+export var Table = function (sheet) {
 	this.sheet = sheet;
 	this.headers = this.getHeaders();
 	};
