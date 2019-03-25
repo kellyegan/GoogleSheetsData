@@ -2,7 +2,7 @@
   "name": "googlesheetsdata",
   "version": "1.0.0",
   "description": "Tool for handling Google Sheets data as an array of objects.",
-  "main": "sheetdata.ts",
+  "main": "table.ts",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
